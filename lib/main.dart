@@ -150,7 +150,7 @@ class MainPage extends StatelessWidget {
                         children: [
                           Expanded(
                             child: Image.network(
-                              'https://images-cdn.ubuy.co.id/694153bff93b926de60e9238-apple-tv-4k-32gb-previous-model.jpg',
+                              'https://cdsassets.apple.com/live/7WUAS350/images/apple-tv/apple-tv-4k-3gen.png',
                               fit: BoxFit.cover,
                               width: double.infinity,
                             ),
